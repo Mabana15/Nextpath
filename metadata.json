@@ -1,0 +1,6 @@
+{
+  "name": "SkillBridge AI",
+  "description": "Discover Your Skills. Design Your Future. AI-powered personalized career guidance, skill assessment, gap analysis, adaptive learning roadmaps, and multi-agent career mentoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
